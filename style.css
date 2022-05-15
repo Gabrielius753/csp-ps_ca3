@@ -1,7 +1,7 @@
 body {
   font-family: Arial;
-  color: #000000;
-  background-color: #363636;
+  color: #054208;
+  background-color: #33a742;
   display: flex;
   align-items: start;
 }
@@ -29,8 +29,8 @@ div {
 
 .editing {
   background: white;
-  color: #172b4d !important;
-  box-shadow:inset 0px 0px 0px 2px #0279bf;
+  color: #174d17 !important;
+  box-shadow:inset 0px 0px 0px 2px #89a790;
 }
 
 .editing:hover {
@@ -39,7 +39,7 @@ div {
 
 .card {
   background: white;
-  border-bottom: 1px solid #aaa;
+  border-bottom: 1px solid rgb(107, 151, 107);
 }
 
 .list {
@@ -76,7 +76,7 @@ div {
 }
 
 .add-card:hover {
-  background-color: rgba(9,30,66,.13);
+  background-color: rgba(16, 77, 24, 0.226);
 }
 
 .del {
